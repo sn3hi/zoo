@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/menu1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="menu1: vegetariano" />
+                <TextView
+                    android:id="@+id/ingredientes1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="ingradientes: sopa, arroz, huevos"/>
+
+                <Button
+                    android:id="@+id/button1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="enviar1" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/menu2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="menu2: vegetariano" />
+                <TextView
+                    android:id="@+id/ingredientes2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="ingradientes: sopa, arroz, huevos"/>
+
+                <Button
+                    android:id="@+id/button2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="enviar1" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/menu3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="menu3: vegetariano" />
+                <TextView
+                    android:id="@+id/ingredientes3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="ingradientes: sopa, arroz, huevos"/>
+
+                <Button
+                    android:id="@+id/button3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="enviar1" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/menu4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="menu1: vegetariano" />
+                <TextView
+                    android:id="@+id/ingredientes4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="ingradientes: sopa, arroz, huevos"/>
+
+                <Button
+                    android:id="@+id/button4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="enviar1" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/menu5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="menu1: vegetariano" />
+                <TextView
+                    android:id="@+id/ingredientes5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="ingradientes: sopa, arroz, huevos"/>
+
+                <Button
+                    android:id="@+id/button5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="enviar1" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/menu6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="menu1: vegetariano" />
+                <TextView
+                    android:id="@+id/ingredientes6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="ingradientes: sopa, arroz, huevos"/>
+
+                <Button
+                    android:id="@+id/button6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="enviar1" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/menu7"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="menu1: vegetariano" />
+                <TextView
+                    android:id="@+id/ingredientes7"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="ingradientes: sopa, arroz, huevos"/>
+
+                <Button
+                    android:id="@+id/button7"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="enviar1" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/menu8"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="menu1: vegetariano" />
+                <TextView
+                    android:id="@+id/ingredientes8"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="ingradientes: sopa, arroz, huevos"/>
+
+                <Button
+                    android:id="@+id/button8"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="enviar1" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/menu9"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="menu1: vegetariano" />
+                <TextView
+                    android:id="@+id/ingredientes9"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="ingradientes: sopa, arroz, huevos"/>
+
+                <Button
+                    android:id="@+id/button9"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="enviar1" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/menu10"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="menu1: vegetariano" />
+                <TextView
+                    android:id="@+id/ingredientes10"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="ingradientes: sopa, arroz, huevos"/>
+
+                <Button
+                    android:id="@+id/button10"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="enviar1" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/menu11"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="menu1: vegetariano" />
+                <TextView
+                    android:id="@+id/ingredientes11"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="ingradientes: sopa, arroz, huevos"/>
+
+                <Button
+                    android:id="@+id/button11"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="enviar1" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/menu12"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="menu1: vegetariano" />
+                <TextView
+                    android:id="@+id/ingredientes12"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="ingradientes: sopa, arroz, huevos"/>
+
+                <Button
+                    android:id="@+id/button12"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="enviar1" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/menu13"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="menu1: vegetariano" />
+                <TextView
+                    android:id="@+id/ingredientes13"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="ingradientes: sopa, arroz, huevos"/>
+
+                <Button
+                    android:id="@+id/button13"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="enviar1" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/menu14"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="menu1: vegetariano" />
+                <TextView
+                    android:id="@+id/ingredientes14"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="ingradientes: sopa, arroz, huevos"/>
+
+                <Button
+                    android:id="@+id/button14"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="enviar1" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/menu15"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="menu1: vegetariano" />
+                <TextView
+                    android:id="@+id/ingredientes15"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="ingradientes: sopa, arroz, huevos"/>
+
+                <Button
+                    android:id="@+id/button15"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="enviar1" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/menu16"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="menu1: vegetariano" />
+                <TextView
+                    android:id="@+id/ingredientes16"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="ingradientes: sopa, arroz, huevos"/>
+
+                <Button
+                    android:id="@+id/button16"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="enviar1" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/menu17"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="menu1: vegetariano" />
+                <TextView
+                    android:id="@+id/ingredientes17"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="ingradientes: sopa, arroz, huevos"/>
+
+                <Button
+                    android:id="@+id/button17"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="enviar1" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/menu18"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="menu1: vegetariano" />
+                <TextView
+                    android:id="@+id/ingredientes18"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="ingradientes: sopa, arroz, huevos"/>
+
+                <Button
+                    android:id="@+id/button18"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="enviar1" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/menu19"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="menu1: vegetariano" />
+                <TextView
+                    android:id="@+id/ingredientes19"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="ingradientes: sopa, arroz, huevos"/>
+
+                <Button
+                    android:id="@+id/button19"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="enviar1" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/menu20"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="menu1: vegetariano" />
+                <TextView
+                    android:id="@+id/ingredientes20"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="ingradientes: sopa, arroz, huevos"/>
+
+                <Button
+                    android:id="@+id/button20"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="enviar1" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
